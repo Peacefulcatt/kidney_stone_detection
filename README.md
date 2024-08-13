@@ -18,7 +18,7 @@ This code performs object detection using the YOLOv8 model on a video file and o
 
 2. Make sure you have the YOLOv8 model weights file (`best.pt`) in the specified path:
    ```
-   /home/peacefulcat/PycharmProjects/yolo_kidney_stone/weights/best.pt
+   /home/peacefulcat/PycharmProjects/yolo_kidney_stone/best.pt
    ```
 
 3. Replace the `results.py` file in the Ultralytics library:
