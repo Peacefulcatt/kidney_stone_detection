@@ -1,5 +1,4 @@
-## YOLOv8 Video Inference with Grid Visualization
-
+## YOLOv8 Kidney Stone Detection
 This code performs object detection using the YOLOv8 model on a video file and overlays a grid onto the frames to assist in analysis. It provides interactive controls to adjust the grid density and the size of detected objects for better visualization.
 
 ### Prerequisites
